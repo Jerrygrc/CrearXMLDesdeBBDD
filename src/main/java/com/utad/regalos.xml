@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<regalos>
+    <regalo>
+        <nombre>Javier</nombre>
+        <tipo>Coche de juguete</tipo>
+        <precio>34.56</precio>
+    </regalo>
+    <regalo>
+        <nombre>María</nombre>
+        <tipo>Patinete</tipo>
+        <precio>456.36</precio>
+    </regalo>
+    <regalo>
+        <nombre> José</nombre>
+        <tipo>martillo pilón</tipo>
+        <precio>4356.0</precio>
+    </regalo>
+    <regalo>
+        <nombre> José</nombre>
+        <tipo>Paragüas</tipo>
+        <precio>34.34</precio>
+    </regalo>
+    <regalo>
+        <nombre> Marta</nombre>
+        <tipo>Gato</tipo>
+        <precio>0.0</precio>
+    </regalo>
+    <regalo>
+        <nombre>Pepe</nombre>
+        <tipo>tren</tipo>
+        <precio>45.33</precio>
+    </regalo>
+    <regalo>
+        <nombre>Jose</nombre>
+        <tipo>patito</tipo>
+        <precio>5.6</precio>
+    </regalo>
+</regalos>
